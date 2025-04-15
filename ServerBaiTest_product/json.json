@@ -1,0 +1,26 @@
+{
+    "id": "gen-1744454845-ZdBnzQBVsLkaFS1bkZmT",
+    "provider": "Chutes",
+    "model": "moonshotai/kimi-vl-a3b-thinking",
+    "object": "chat.completion",
+    "created": 1744454845,
+    "choices": [
+        {
+            "logprobs": null,
+            "finish_reason": "stop",
+            "native_finish_reason": "stop",
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "◁think▷Phải dịch \"hello guys\" sang tiếng Việt. Nhu cầu dịch ở chức năng phản hồi, nên dịch ngắn gọn, chỉ lấy từ gốc từ tiếng Anh và dịch chính xác. Cần đảm bảo không để thêm ý tưởng, đánh giá nào đó.◁/think▷Chào guys!",
+                "refusal": null,
+                "reasoning": null
+            }
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 69,
+        "completion_tokens": 131,
+        "total_tokens": 200
+    }
+}
